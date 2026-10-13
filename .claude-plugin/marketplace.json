@@ -1,0 +1,17 @@
+{
+  "name": "joaopmarques",
+  "description": "Claude Code plugins by João P. Marques",
+  "owner": { "name": "João P. Marques", "url": "https://github.com/joaopmarques" },
+  "plugins": [
+    {
+      "name": "barbeque",
+      "source": { "source": "github", "repo": "joaopmarques/barbeque" },
+      "description": "Grill a plan yourself, auto-accept the recommended answers, and serve a short plan with a decision log plus sauces and sides."
+    },
+    {
+      "name": "code-review-review",
+      "source": { "source": "github", "repo": "joaopmarques/code-review-review" },
+      "description": "Explain a reviewer's PR comments in plain English, judge each one, then fix, push, and reply on 'go'."
+    }
+  ]
+}
