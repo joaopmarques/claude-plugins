@@ -6,6 +6,7 @@ Claude Code plugins by João P. Marques, in one marketplace.
 |---|---|
 | [barbeque](https://github.com/joaopmarques/barbeque) | Grills your plan for you, picks the answers, and serves a short plan with a decision log plus sauces and sides. |
 | [code-review-review](https://github.com/joaopmarques/code-review-review) | Explains a reviewer's PR comments in plain English, judges each one, then fixes, pushes, and replies on "go". |
+| [dial-in](https://github.com/joaopmarques/dial-in) | Puts live controls next to a UI component. You tweak by eye, and Claude writes the values back to source. |
 
 ## Install
 
@@ -20,6 +21,7 @@ Then install the plugins you want:
 ```bash
 claude plugin install barbeque@joaopmarques
 claude plugin install code-review-review@joaopmarques
+claude plugin install dial-in@joaopmarques
 ```
 
 Inside a session, use `/plugin` and pick the `joaopmarques` marketplace.

@@ -12,6 +12,11 @@
       "name": "code-review-review",
       "source": { "source": "github", "repo": "joaopmarques/code-review-review" },
       "description": "Explain a reviewer's PR comments in plain English, judge each one, then fix, push, and reply on 'go'."
+    },
+    {
+      "name": "dial-in",
+      "source": { "source": "github", "repo": "joaopmarques/dial-in" },
+      "description": "Put live controls next to a UI component, tweak by eye, then have the agent write the values back to source."
     }
   ]
 }
