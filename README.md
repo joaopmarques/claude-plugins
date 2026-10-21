@@ -1,12 +1,12 @@
 # claude-plugins
 
-Claude Code plugins by João P. Marques, in one marketplace.
+Claude Code plugins by João P. Marques, in one marketplace. The same skills are also listed on [skills.sh](https://www.skills.sh/joaopmarques).
 
-| Plugin | What it does |
-|---|---|
-| [barbeque](https://github.com/joaopmarques/barbeque) | Grills your plan for you, picks the answers, and serves a short plan with a decision log plus sauces and sides. |
-| [code-review-review](https://github.com/joaopmarques/code-review-review) | Explains a reviewer's PR comments in plain English, judges each one, then fixes, pushes, and replies on "go". |
-| [dial-in](https://github.com/joaopmarques/dial-in) | Puts live controls next to a UI component. You tweak by eye, and Claude writes the values back to source. |
+| Plugin | What it does | skills.sh |
+|---|---|---|
+| [barbeque](https://github.com/joaopmarques/barbeque) | Grills your plan for you, picks the answers, and serves a short plan with a decision log plus sauces and sides. | [![skills.sh](https://www.skills.sh/b/joaopmarques/barbeque)](https://www.skills.sh/joaopmarques/barbeque) |
+| [code-review-review](https://github.com/joaopmarques/code-review-review) | Explains a reviewer's PR comments in plain English, judges each one, then fixes, pushes, and replies on "go". | [![skills.sh](https://www.skills.sh/b/joaopmarques/code-review-review)](https://www.skills.sh/joaopmarques/code-review-review) |
+| [dial-in](https://github.com/joaopmarques/dial-in) | Puts live controls next to a UI component. You tweak by eye, and Claude writes the values back to source. | [![skills.sh](https://www.skills.sh/b/joaopmarques/dial-in)](https://www.skills.sh/joaopmarques/dial-in) |
 
 ## Install
 
